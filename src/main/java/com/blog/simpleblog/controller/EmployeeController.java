@@ -9,8 +9,8 @@ import java.util.List;
 
 /**
  * https://spring.io/guides/tutorials/rest/
- * @author lilei
- * @date 2022/6/22 16:43
+ *
+ * HATEOAS:https://www.jianshu.com/p/fd1c2ad0715d
  */
 @RestController
 class EmployeeController {
